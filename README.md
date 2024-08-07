@@ -3,11 +3,11 @@
 - 🎀 CTF player
 - 🚩 web x crypto x pwn
 - ⚔️ CakeisTheFake@naup96321
-- 🌱 https://naupjjin.github.io/
+- 🌱 https://naupjjin.github.io/  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naupjjin&layout=compact)
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naupjjin&layout=compact)
+
 
 <img align="left" alt="Coding" width="400" src="https://i.imgur.com/mk6kv4S.gif">
 
