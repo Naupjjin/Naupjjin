@@ -5,6 +5,9 @@
 - ⚔️ CakeisTheFake@naup96321
 - 🌱 https://naupjjin.github.io/  
 
+## about
+I love❤ participating in CTFs🚩🚩🚩 and my research areas are Web, Crypto, and Pwn. 🕵️‍♂️🔍 I’m into digging into various low-level aspects, learning cybersecurity knowledge, and I also enjoy working on project development. 💻🔒🚀
+
 <br>
 
 <div style="display: flex; justify-content: space-between;">
