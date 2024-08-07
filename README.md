@@ -5,7 +5,7 @@
 - ⚔️ CakeisTheFake@naup96321
 - 🌱 https://naupjjin.github.io/
 
-<img align="right" alt="Coding" width="400" src="https://i.imgur.com/mk6kv4S.gif">
+<img align="left" alt="Coding" width="400" src="https://i.imgur.com/mk6kv4S.gif">
 
 <!--
 **Naupjjin/Naupjjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
