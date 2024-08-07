@@ -1,7 +1,5 @@
 ## 堇姬Naup
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naupjjin&layout=compact)
-
 - 🎀 CTF player
 - 🚩 web x crypto x pwn
 - ⚔️ CakeisTheFake@naup96321
