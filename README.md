@@ -12,7 +12,9 @@ I love❤ participating in CTFs🚩🚩🚩 and my research areas are Web, Crypt
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naupjjin&exclude_repo=github-readme-stats,Naupjjin.github.io)
 
 ## project
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Naupjjin&repo=github-readme-stats)](https://github.com/Naupjjin/MyCTFLib)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Naupjjin&repo=github-readme-stats)](https://github.com/Naupjjin/THJCC-CTF-source-code)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Naupjjin&repo=github-readme-stats)](https://github.com/Naupjjin/SCAICT-Crypto-advanced)
 
 ## other
 
