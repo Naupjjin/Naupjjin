@@ -9,12 +9,6 @@
 I love❤ participating in CTFs🚩🚩🚩 and my research areas are Web, Crypto, and Pwn. 🕵️‍♂️🔍 I’m into digging into various low-level aspects
 , learning cybersecurity knowledge, and I also enjoy working on project development. 💻🔒🚀
 
-## project
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Naupjjin&repo=MyCTFLib)](https://github.com/Naupjjin/MyCTFLib)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Naupjjin&repo=THJCC-CTF-source-code)](https://github.com/Naupjjin/THJCC-CTF-source-code)
-
-## other
-
 <div style="display: flex; justify-content: space-between;">
     <img src="https://i.imgur.com/mk6kv4S.gif" alt="Coding" width="400" />
     <img src="https://media1.tenor.com/m/kR7OOCL-nroAAAAC/ryo-yamada-thumbs-up.gif" alt="Coding" width="400" />
