@@ -5,6 +5,8 @@
 - ⚔️ CakeisTheFake@naup96321
 - 🌱 https://naupjjin.github.io/
 
+<br>
+
 <img align="left" alt="Coding" width="400" src="https://i.imgur.com/mk6kv4S.gif">
 
 <!--
