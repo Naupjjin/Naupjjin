@@ -9,8 +9,10 @@
 I love❤ participating in CTFs🚩🚩🚩 and my research areas are Web, Crypto, and Pwn. 🕵️‍♂️🔍 I’m into digging into various low-level aspects
 , learning cybersecurity knowledge, and I also enjoy working on project development. 💻🔒🚀
 
-## project
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naupjjin&exclude_repo=github-readme-stats,Naupjjin.github.io)
+
+## project
+
 
 ## other
 
