@@ -10,7 +10,7 @@
 
 
 <img align="left" alt="Coding" width="400" src="https://i.imgur.com/mk6kv4S.gif">
-<img align="left" alt="Coding" width="400" src="[https://i.imgur.com/mk6kv4S.gif](https://media1.tenor.com/m/kR7OOCL-nroAAAAC/ryo-yamada-thumbs-up.gif)">
+<img align="left" alt="Coding" width="400" src="https://media1.tenor.com/m/kR7OOCL-nroAAAAC/ryo-yamada-thumbs-up.gif">
 
 
 <!--
