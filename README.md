@@ -28,6 +28,7 @@ Recently, I focus on
 - 🚩 2024 HITCON CTF Qual Taiwan 1st & All 24th
 - 🚩 2024 HITCON CTF Final Taiwan Star award & All 10th
 - 🚩 2025 TSC CTF All 5th
+- 🚩 2025 AIS3 EOF Final 2nd & special award
 
 <br>
 <div style="display: flex; justify-content: space-between;">
