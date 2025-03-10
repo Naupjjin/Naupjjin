@@ -33,7 +33,6 @@ Recently, I focus on
 <br>
 <div style="display: flex; justify-content: space-between;">
     <img src="https://i.imgur.com/mk6kv4S.gif" alt="Coding" width="400" />
-    <img src="https://media1.tenor.com/m/kR7OOCL-nroAAAAC/ryo-yamada-thumbs-up.gif" alt="Coding" width="400" />
 </div>
 
 <!--
