@@ -3,6 +3,7 @@
 - 🎀 CTF player
 - 🚩 web x crypto x pwn
 - 🏫 CGSH(Taipei Municipal Chenggong High School)
+- 🏫 NYCU CS 18
 - ⚔️ CakeisTheFake@naup96321
 - 🌱 https://naupjjin.github.io/  
 
