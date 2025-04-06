@@ -35,5 +35,4 @@ Recently, I focus on
 <div style="display: flex; justify-content: space-between;">
     <img src="https://i.imgur.com/mk6kv4S.gif" alt="Coding" width="400" />
 </div>
-![:name](https://count.getloli.com/@naup96321?name=naup96321&theme=original-new&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&num=96321)
 
