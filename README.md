@@ -5,6 +5,7 @@
 - 🏫 CGSH(Taipei Municipal Chenggong High School)
 - 🏫 NYCU CS 18 (National Yang Ming Chiao Tung University Computer Science)
 - ⚔️ CakeisTheFake@naup96321
+- ⚔️ 竹狐@naup96321
 - 🌱 https://naupjjin.github.io/  
 
 ## about
@@ -30,6 +31,7 @@ Recently, I focus on
 - 🚩 2024 HITCON CTF Final Taiwan Star award & All 10th
 - 🚩 2025 TSC CTF All 5th
 - 🚩 2025 AIS3 EOF Final 2nd & special award
+- 🚩 2025 DEFCON CTF Qual 31th
 
 <br>
 <div style="display: flex; justify-content: space-between;">
