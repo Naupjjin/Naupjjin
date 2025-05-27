@@ -9,15 +9,14 @@
 - 🌱 https://naupjjin.github.io/  
 
 ## about
-I love❤ participating in CTFs🚩🚩🚩 and my research areas are Web, Crypto, and Pwn. 🕵️‍♂️🔍 I’m into digging into various low-level aspects
-, learning cybersecurity knowledge, and I also enjoy working on project development. 💻🔒🚀
+I love❤ participating in CTFs🚩🚩🚩 and my research areas are Web, Crypto, and Pwn. 🔍 I’m into digging into various low-level aspects
+, learning cybersecurity knowledge. 💻
 
 Recently, I focus on
 - Golang
 - python
 - C++ pwn
-- Linux/windows kernel
-- IoT
+- Linux kernel
 
 ## competition experience
 - 🚩 2023 Tcat 1st
