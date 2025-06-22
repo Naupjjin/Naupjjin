@@ -3,7 +3,7 @@
 - 🎀 CTF player
 - 🚩 web x crypto x pwn
 - 🏫 CGSH(Taipei Municipal Chenggong High School)
-- 🏫 NYCU CS 18 (National Yang Ming Chiao Tung University Computer Science)
+- 🏫 NYCU CSIE (National Yang Ming Chiao Tung University Computer Science)
 - ⚔️ CakeisTheFake@naup96321
 - ⚔️ 竹狐@naup96321
 - 🌱 https://naupjjin.github.io/  
