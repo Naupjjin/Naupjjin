@@ -4,8 +4,9 @@
 - 🚩 web x crypto x pwn
 - 🏫 CGSH(Taipei Municipal Chenggong High School)
 - 🏫 NYCU CSIE (National Yang Ming Chiao Tung University Computer Science)
-- ⚔️ CakeisTheFake@naup96321
-- ⚔️ 竹狐@naup96321
+- ⚔️ CakeisTheFake @ naup96321
+- ⚔️ 竹狐 @ naup96321
+- ⚔️ Starburst Beef Stir-Fried BambooFox @ naup96321
 - 🌱 https://naupjjin.github.io/  
 
 ## about
@@ -31,6 +32,7 @@ Recently, I focus on
 - 🚩 2025 TSC CTF All 5th
 - 🚩 2025 AIS3 EOF Final 2nd & special award
 - 🚩 2025 DEFCON CTF Qual 31th
+- 🚩 2025 Google CTF Qual 27th
 
 <br>
 <div style="display: flex; justify-content: space-between;">
