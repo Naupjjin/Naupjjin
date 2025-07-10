@@ -26,6 +26,7 @@ Recently, I focus on
 - 🚩 2024 AIS3 EOF Qual 42th
 - 🚩 2024 AIS3 EOF Final Master of pwn award & 4th
 - 🚩 2024 AIS3 Pre-exam 4th
+- 🚩 2024 FlareOn CTF completed 5/10 challenge
 - 🚩 2024 Crypto CTF Taiwan 2nd & All 29th
 - 🚩 2024 HITCON CTF Qual Taiwan 1st & All 24th
 - 🚩 2024 HITCON CTF Final Taiwan Star award & All 10th
