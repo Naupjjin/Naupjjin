@@ -36,6 +36,7 @@ Recently, I focus on
 - 🚩 2025 DEFCON CTF Qual 31th
 - 🚩 2025 Google CTF Qual 27th
 - 🚩 2025 Crypto CTF Taiwan 2nd & All 23th
+- 🚩 2025 DownUnder CTF 8th
 
 <br>
 <div style="display: flex; justify-content: space-between;">
