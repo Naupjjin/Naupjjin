@@ -37,6 +37,8 @@ Recently, I focus on
 - 🚩 2025 Google CTF Qual 27th
 - 🚩 2025 Crypto CTF Taiwan 2nd & All 23th
 - 🚩 2025 DownUnder CTF 8th
+- 🚩 2025 AEGIS CTF Qual 3nd
+- 🚩 2025 FlareOn CTF completed 8/9 challenge
 
 <br>
 <div style="display: flex; justify-content: space-between;">
