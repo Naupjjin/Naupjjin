@@ -40,6 +40,7 @@ Recently, I focus on
 - 🚩 2025 Deadsec CTF 2nd
 - 🚩 2025 AEGIS CTF Qual 3nd
 - 🚩 2025 FlareOn CTF completed 8/9 challenge
+- 🚩 2025 HITCON CTF 交流賽 1st
 
 <br>
 <div style="display: flex; justify-content: space-between;">
