@@ -39,7 +39,8 @@ Recently, I focus on
 - 🚩 2025 DownUnder CTF 8th
 - 🚩 2025 Deadsec CTF 2nd
 - 🚩 2025 OSU gaming CTF 1st
-- 🚩 2025 AEGIS CTF Qual 3nd
+- 🚩 2025 AEGIS CTF Qual 3rd
+- 🚩 2025 AEGIS CTF Final 2nd
 - 🚩 2025 FlareOn CTF completed 8/9 challenge
 - 🚩 2025 HITCON CTF 交流賽 1st
 
