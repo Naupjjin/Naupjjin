@@ -44,6 +44,7 @@ Recently, I focus on
 - 🚩 2025 FlareOn CTF completed 8/9 challenge
 - 🚩 2025 HITCON CTF 交流賽 1st
 - 🚩 2025 Cyber Security competition 2nd
+- 🚩 2026 LA CTF 3rd
 
 <br>
 <div style="display: flex; justify-content: space-between;">
