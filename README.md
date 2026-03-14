@@ -46,6 +46,7 @@ Recently, I focus on
 - 🚩 2025 Cyber Security competition 2nd
 - 🚩 2026 LA CTF 3rd
 - 🚩 2026 srdnlen CTF 2nd
+- 🚩 2026 DiceCTF 23rd
 
 <br>
 <div style="display: flex; justify-content: space-between;">
