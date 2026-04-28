@@ -11,8 +11,7 @@
 - 🌱 https://naupjjin.github.io/  
 
 ## about
-I love❤ participating in CTFs🚩🚩🚩 and my research areas are Web, Crypto, and Pwn. 🔍 I’m into digging into various low-level aspects
-, learning cybersecurity knowledge. 💻
+I am a cybersecurity enthusiast and CTF player. My current focus areas include Golang, Python, C++, Linux kernel exploitation.
 
 Recently, I focus on
 - Golang
