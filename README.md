@@ -48,6 +48,10 @@ Recently, I focus on
 - 🚩 2026 DiceCTF 23rd
 - 🚩 2026 TRX CTF 8th
 
+## Security report and CVE
+- CVE-2026-23275: linux kernel io uring resize and taskrun race condition to null pointer dereference
+- CVE-2026-23415: linux kernel UAF between futex_key_to_node_opt() and vma_replace_policy()
+
 <br>
 <div style="display: flex; justify-content: space-between;">
     <img src="https://i.imgur.com/mk6kv4S.gif" alt="Coding" width="400" />
