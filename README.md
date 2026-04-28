@@ -11,7 +11,7 @@
 - 🌱 https://naupjjin.github.io/  
 
 ## about
-I am a cybersecurity enthusiast and CTF player. My current focus areas include Golang, Python, C++, Linux kernel exploitation.
+I am a cybersecurity enthusiast and CTF player.
 
 Recently, I focus on
 - Golang
