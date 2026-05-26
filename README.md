@@ -47,6 +47,7 @@ Recently, I focus on
 - 🚩 2026 srdnlen CTF 2nd
 - 🚩 2026 DiceCTF 23rd
 - 🚩 2026 TRX CTF 8th
+- 🚩 2026 DEFCON CTF Qual 2nd
 
 ## Security report and CVE
 - CVE-2026-23275: linux kernel io uring resize and taskrun race condition to null pointer dereference
