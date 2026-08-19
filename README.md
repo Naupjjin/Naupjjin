@@ -6,8 +6,6 @@
 - 🏫 NYCU CS (National Yang Ming Chiao Tung University Computer Science)
 - ⚔️ Squid Proxy Lovers @ naup96321
 - ⚔️ CakeisTheFake @ naup96321
-- ⚔️ Starburst Beef Stir-Fried BambooFox @ naup96321
-- ⚔️ 竹狐 @ naup96321
 - 🌱 https://naupjjin.github.io/  
 
 ## about
