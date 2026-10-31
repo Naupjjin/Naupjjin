@@ -48,6 +48,9 @@ Recently, I focus on
 - 🚩 2026 DEFCON CTF Qual 2nd
 - 🚩 2026 DEFCON CTF Final 6th
 
+## Talk
+- 2026 OffensiveCon Tokyo - "Harvest Season for SLUB - from io_uring vulneribility to novel sheaf-based exploitation"
+
 ## Security report and CVE
 - CVE-2026-23275: linux kernel io uring resize and taskrun race condition to null pointer dereference
 - CVE-2026-23415: linux kernel UAF between futex_key_to_node_opt() and vma_replace_policy()
